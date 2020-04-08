@@ -1,6 +1,4 @@
-# Evolent Employee managment server setup
-
-# Steps to setup server application
+# Evolent Employee managment Steps to setup server application
 
 # Clone the application
    git clone https://github.com/gvibhute24/evolent.git
