@@ -1,4 +1,4 @@
-# evolent
+# Evolent Employee managment server setup
 
 # Steps to setup server application
 
